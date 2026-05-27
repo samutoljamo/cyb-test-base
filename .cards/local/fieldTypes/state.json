@@ -1,5 +1,5 @@
 {
-    "name": "base/fieldTypes/status",
+    "name": "base/fieldTypes/state",
     "displayName": "",
     "dataType": "shortText"
 }
